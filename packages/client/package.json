@@ -108,7 +108,7 @@
     "autoprefixer": "^10.4.21",
     "esbuild": "^0.27.0",
     "eslint": "^10.0.2",
-    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-react": "^7.34.0",
     "eslint-plugin-react-hooks": "^7.0.0",
     "headless-web3-provider": "^0.3.2",
