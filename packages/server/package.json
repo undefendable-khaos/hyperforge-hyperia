@@ -107,7 +107,7 @@
     "@typescript-eslint/eslint-plugin": "^8.38.0",
     "@typescript-eslint/parser": "^8.38.0",
     "@vitest/coverage-v8": "^4.1.8",
-    "chokidar": "^4.0.3",
+    "chokidar": "^5.0.0",
     "esbuild": "^0.27.0",
     "eslint": "^10.0.2",
     "eslint-config-prettier": "^9.1.0",
