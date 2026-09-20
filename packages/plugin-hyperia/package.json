@@ -33,7 +33,7 @@
   "dependencies": {
     "@noble/curves": "^2.0.1",
     "@elizaos/core": "alpha",
-    "@livekit/rtc-node": "^0.13.24",
+    "@livekit/rtc-node": "^1.0.0",
     "ethers": "^6.16.0",
     "msgpackr": "^2.0.2",
     "ws": "^8.19.0",
